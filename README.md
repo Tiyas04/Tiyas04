@@ -9,7 +9,7 @@
 🎯 Passionate about building **modern, responsive, and high-performance web applications**  
 💡 I enjoy turning ideas into real-world products with clean UI and scalable backend systems  
 🤝 Open for **Internship** and **Freelance** opportunities  
-💼 Portfolio: https://tiyas.vercel.app  
+💼 Portfolio: https://your-portfolio-link.vercel.app  
 📫 Reach me on **LinkedIn**
 
 ---
@@ -41,6 +41,6 @@
 ## 🌐 Socials & Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiyas-mandal-a2a014343)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tiyas.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)][(https://github.com/tiyas04](https://github.com/tiyas04))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tiyas04)
 
 ---
