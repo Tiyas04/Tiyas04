@@ -9,7 +9,7 @@
 🎯 Passionate about building **modern, responsive, and high-performance web applications** with clean UI and solid backend architecture  
 💡 Enjoy turning ideas into real-world products and continuously improving code quality and performance  
 🤝 Open for **Internship** and **Freelance** opportunities  
-💼 Portfolio: https://your-portfolio-link.vercel.app  
+💼 Portfolio: https://tiyas.vercel.app  
 📫 Reach me on **LinkedIn**
 
 ---
