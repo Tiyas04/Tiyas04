@@ -28,7 +28,7 @@
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-116530?style=flat&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/-Bcrypt-5e548e?style=flat)
+![Bcrypt](https://img.shields.io/badge/-Bcrypt-5e548e?style=flat&logo=bcrypt-js&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
